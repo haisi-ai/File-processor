@@ -1,0 +1,126 @@
+2024-12-27 12:28:56,302 - Synchronizing directory D:/vita/script/Ä¿µÄÎÄ¼ş with D:/vita/script/Ô´ÎÄ¼ş
+2024-12-27 12:28:56,302 - Source directory: D:/vita/script/Ô´ÎÄ¼ş:
+2024-12-27 12:28:56,308 - dirsync finished in 0.00 seconds.
+2024-12-27 12:28:56,308 - 5 directories parsed, 0 files copied
+2024-12-27 12:28:56,308 - 
+Synchronizing directory D:/vita/script/Ä¿µÄÎÄ¼ş with D:/vita/script/Ô´ÎÄ¼ş
+Source directory: D:/vita/script/Ô´ÎÄ¼ş:
+dirsync finished in 0.00 seconds.
+5 directories parsed, 0 files copied
+
+2024-12-27 12:37:21,261 - Synchronizing directory D:/vita/script/Ä¿µÄÎÄ¼ş with D:/vita/script/Ô´ÎÄ¼ş
+2024-12-27 12:37:21,261 - Source directory: D:/vita/script/Ô´ÎÄ¼ş:
+2024-12-27 12:37:21,268 - dirsync finished in 0.00 seconds.
+2024-12-27 12:37:21,268 - 5 directories parsed, 0 files copied
+2024-12-27 12:37:21,268 - 
+Synchronizing directory D:/vita/script/ç›®çš„æ–‡ä»¶ with D:/vita/script/æºæ–‡ä»¶
+Source directory: D:/vita/script/æºæ–‡ä»¶:
+dirsync finished in 0.00 seconds.
+5 directories parsed, 0 files copied
+
+2024-12-27 12:37:30,993 - Synchronizing directory D:/vita/script/Ä¿µÄÎÄ¼ş with D:/vita/script/Ô´ÎÄ¼ş
+2024-12-27 12:37:30,993 - Source directory: D:/vita/script/Ô´ÎÄ¼ş:
+2024-12-27 12:37:30,999 - dirsync finished in 0.00 seconds.
+2024-12-27 12:37:30,999 - 5 directories parsed, 0 files copied
+2024-12-27 12:37:30,999 - 
+Synchronizing directory D:/vita/script/ç›®çš„æ–‡ä»¶ with D:/vita/script/æºæ–‡ä»¶
+Source directory: D:/vita/script/æºæ–‡ä»¶:
+dirsync finished in 0.00 seconds.
+5 directories parsed, 0 files copied
+
+2024-12-27 12:37:55,356 - Synchronizing directory D:/vita/script/Ä¿µÄÎÄ¼ş with D:/vita/script/Ô´ÎÄ¼ş
+2024-12-27 12:37:55,356 - Source directory: D:/vita/script/Ô´ÎÄ¼ş:
+2024-12-27 12:37:55,357 - Copying file ÈÕÖ¾Êı¾İÌáÈ¡_new.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,359 - Copying file ÍøÂç¼ÆËãÆ÷v1.0.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,359 - Copying file jszxqA.ico from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,361 - Copying file PYZ-00.pyz from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,363 - Copying file Installer_Ñ¸½İÑ¹Ëõ_r1.7.5.exe from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,365 - Copying file ÍøÂç¼ÆËãÆ÷v1.0.pkg from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,376 - Copying file jszxqA.png from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,378 - Copying file ÅúÁ¿ĞŞ¸ÄÎÄ¼şºó×º.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,378 - Copying file logo.ico from D:/vita/script/Ô´ÎÄ¼ş\dist to D:/vita/script/Ä¿µÄÎÄ¼ş\dist
+2024-12-27 12:37:55,380 - Copying file ÎÄ¼şÃû³ÆÍ³¼Æ.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,380 - Copying file pyimod02_importers.pyc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs
+2024-12-27 12:37:55,381 - Copying file changelog.txt from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,382 - Copying file ÈÕÖ¾Êı¾İÌáÈ¡.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,383 - Copying file pyimod04_pywin32.pyc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs
+2024-12-27 12:37:55,383 - Copying file jszxqB.ico from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,384 - Copying file ÍøÂç¼ÆËãÆ÷ µ÷ÊÔ°æ.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,385 - Copying file operations.txt from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,385 - Copying file PKG-00.toc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,395 - Copying file logo.ico from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,396 - Copying file xref-ÍøÂç¼ÆËãÆ÷v1.0.html from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,397 - Copying file pyimod01_archive.pyc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs
+2024-12-27 12:37:55,398 - Copying file test.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,398 - Copying file 11.json from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,399 - Copying file Analysis-00.toc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,400 - Copying file base_library.zip from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,401 - Copying file ÍøÂç¼ÆËãÆ÷v1.0.spec from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,402 - Copying file pyimod03_ctypes.pyc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs
+2024-12-27 12:37:55,403 - Copying file ÅúÁ¿µÇÂ¼½»»»»úÖ´ĞĞÃüÁî.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,403 - Copying file warn-ÍøÂç¼ÆËãÆ÷v1.0.txt from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,404 - Copying file Éı¼¶°æÊı¾İÌáÈ¡.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,405 - Copying file import os.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,405 - Copying file import re.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,406 - Copying file ÈÕÖ¾Êı¾İÌáÈ¡_new_1720622040780_1720622729159.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,406 - Copying file struct.pyc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0/localpycs
+2024-12-27 12:37:55,407 - Copying file ÍøÂç¼ÆËãÆ÷v1.0.exe from D:/vita/script/Ô´ÎÄ¼ş\dist to D:/vita/script/Ä¿µÄÎÄ¼ş\dist
+2024-12-27 12:37:55,419 - Copying file EXE-00.toc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,420 - Copying file 1.json from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,421 - Copying file version.txt from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,421 - Copying file ÈÕÖ¾Êı¾İÌáÈ¡_new_1720622040780.py from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,422 - Copying file jszxqB.png from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,424 - Copying file PYZ-00.toc from D:/vita/script/Ô´ÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0 to D:/vita/script/Ä¿µÄÎÄ¼ş\build/ÍøÂç¼ÆËãÆ÷v1.0
+2024-12-27 12:37:55,424 - Copying file upx.exe from D:/vita/script/Ô´ÎÄ¼ş\ to D:/vita/script/Ä¿µÄÎÄ¼ş\
+2024-12-27 12:37:55,425 - dirsync finished in 0.06 seconds.
+2024-12-27 12:37:55,425 - 5 directories parsed, 42 files copied
+2024-12-27 12:37:55,425 - 3 directories were created.
+2024-12-27 12:37:55,425 - 
+Synchronizing directory D:/vita/script/ç›®çš„æ–‡ä»¶ with D:/vita/script/æºæ–‡ä»¶
+Source directory: D:/vita/script/æºæ–‡ä»¶:
+Copying file æ—¥å¿—æ•°æ®æå–_new.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file ç½‘ç»œè®¡ç®—å™¨v1.0.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file jszxqA.ico from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file PYZ-00.pyz from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file Installer_è¿…æ·å‹ç¼©_r1.7.5.exe from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file ç½‘ç»œè®¡ç®—å™¨v1.0.pkg from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file jszxqA.png from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file æ‰¹é‡ä¿®æ”¹æ–‡ä»¶åç¼€.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file logo.ico from D:/vita/script/æºæ–‡ä»¶\dist to D:/vita/script/ç›®çš„æ–‡ä»¶\dist
+Copying file æ–‡ä»¶åç§°ç»Ÿè®¡.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file pyimod02_importers.pyc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs
+Copying file changelog.txt from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file æ—¥å¿—æ•°æ®æå–.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file pyimod04_pywin32.pyc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs
+Copying file jszxqB.ico from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file ç½‘ç»œè®¡ç®—å™¨ è°ƒè¯•ç‰ˆ.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file operations.txt from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file PKG-00.toc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file logo.ico from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file xref-ç½‘ç»œè®¡ç®—å™¨v1.0.html from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file pyimod01_archive.pyc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs
+Copying file test.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file 11.json from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file Analysis-00.toc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file base_library.zip from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file ç½‘ç»œè®¡ç®—å™¨v1.0.spec from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file pyimod03_ctypes.pyc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs
+Copying file æ‰¹é‡ç™»å½•äº¤æ¢æœºæ‰§è¡Œå‘½ä»¤.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file warn-ç½‘ç»œè®¡ç®—å™¨v1.0.txt from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file å‡çº§ç‰ˆæ•°æ®æå–.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file import os.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file import re.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file æ—¥å¿—æ•°æ®æå–_new_1720622040780_1720622729159.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file struct.pyc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0/localpycs
+Copying file ç½‘ç»œè®¡ç®—å™¨v1.0.exe from D:/vita/script/æºæ–‡ä»¶\dist to D:/vita/script/ç›®çš„æ–‡ä»¶\dist
+Copying file EXE-00.toc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file 1.json from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file version.txt from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file æ—¥å¿—æ•°æ®æå–_new_1720622040780.py from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file jszxqB.png from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+Copying file PYZ-00.toc from D:/vita/script/æºæ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0 to D:/vita/script/ç›®çš„æ–‡ä»¶\build/ç½‘ç»œè®¡ç®—å™¨v1.0
+Copying file upx.exe from D:/vita/script/æºæ–‡ä»¶\ to D:/vita/script/ç›®çš„æ–‡ä»¶\
+dirsync finished in 0.06 seconds.
+5 directories parsed, 42 files copied
+3 directories were created.
+
